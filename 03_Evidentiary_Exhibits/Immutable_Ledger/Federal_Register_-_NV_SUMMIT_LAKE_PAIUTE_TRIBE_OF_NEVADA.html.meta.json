@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=NV+SUMMIT+LAKE+PAIUTE+TRIBE+OF+NEVADA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=NV+SUMMIT+LAKE+PAIUTE+TRIBE+OF+NEVADA",
+  "title": "Federal Register - NV SUMMIT LAKE PAIUTE TRIBE OF NEVADA",
+  "fetched_at": "2026-11-23T18:19:05.118130Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 207178,
+  "sha256": "ac140d0e3aa0193f165cb97883f71459575f5970b5b9b2c85ec650ced2286a31",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
